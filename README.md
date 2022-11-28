@@ -1,11 +1,11 @@
-### Hi there 👋
-I'm Tomash, a hardware and software engineer focusing on haptics and audio tech.
-### :fire: Stats
+### Hi 👋 I'm Tomash, a hardware and software engineer focusing on haptics and audio tech.
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghztomash&count_private=true&theme=dracula&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&disable_animations=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghztomash&count_private=true&include_all_commits=true&theme=dracula&layout=compact&hide_border=true)
+-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=ghztomash&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
-
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghztomash&count_private=true&include_all_commits=true&hide_title=true&theme=dracula&layout=compact&hide_border=true)
+-->
 <!--
 **ghztomash/ghztomash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
