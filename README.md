@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi 👋 I'm Tomash, a hardware and software engineer
-### 🔭 Currently focusing on network and audio development in rust
+### 🔭 Currently focusing on networking and audio development in rust
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghztomash&count_private=true&theme=dracula&show_icons=true&hide_border=true&hide_title=false&include_all_commits=true&disable_animations=true&hide=issues,contribs)
